@@ -1,0 +1,80 @@
+[
+    {
+      "name": "Chattogram College",
+      "image": "https://i.ibb.co/9N082sj/AF1-Qip-P5-7b-KH7-Qulfz1cn-MAVX3-ZR6-W.jpg",
+      "admissionDates": "August 15 - September 15",
+      "events": ["Annual Fest", "Science Exhibition"],
+      "researchHistory": "Founded in 1940, known for cutting-edge research.",
+      "sports": ["Football", "Basketball", "Swimming"],
+      "admissionProcess": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sed ultrices est. In ac eros eget lacus aliquam volutpat ac et purus. Etiam euismod lectus non elit lacinia, in dictum odio tincidunt.",
+      "eventsDetails": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus iaculis, libero a volutpat fringilla, orci odio viverra nisi, id ultrices nunc dolor vitae ipsum. ",
+      "researchWorks": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod massa ac odio faucibus, ac rhoncus nulla dictum. Sed bibendum nibh ac nisl cursus, eget bibendum arcu consectetur.",
+      "sportsCategories": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas at efficitur ex.",
+      "description": "ABC University is a prestigious institution with a focus on innovation and research. It hosts cultural events and job."
+    },
+    {
+      "name": "Hajeta Taju Degree College",
+      "image": "https://i.ibb.co/abc123/abc-university.jpg",
+      "admissionDates": "September 1 - October 1",
+      "events": ["Cultural Night", "Job Fair"],
+      "researchHistory": "Established in 1965, known for breakthrough research.",
+      "sports": ["Cricket", "Tennis", "Volleyball"],
+      "admissionProcess": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sed ultrices est. In ac eros eget lacus aliquam volutpat ac et purus. Etiam euismod lectus non elit lacinia, in dictum odio tincidunt.",
+      "eventsDetails": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus iaculis, libero a volutpat fringilla, orci odio viverra nisi, id ultrices nunc dolor vitae ipsum. ",
+      "researchWorks": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod massa ac odio faucibus, ac rhoncus nulla dictum. Sed bibendum nibh ac nisl cursus, eget bibendum arcu consectetur.",
+      "sportsCategories": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas at efficitur ex.",
+      "description": "ABC University is a prestigious institution with a focus on innovation and research. It hosts cultural events and job."
+    },
+    {
+      "name": "Agrabad Mohila College",
+      "image": "https://i.ibb.co/abc123/abc-university.jpg",
+      "admissionDates": "September 1 - October 1",
+      "events": ["Cultural Night", "Job Fair"],
+      "researchHistory": "Established in 1965, known for breakthrough research.",
+      "sports": ["Cricket", "Tennis", "Volleyball"],
+      "admissionProcess": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sed ultrices est. In ac eros eget lacus aliquam volutpat ac et purus. Etiam euismod lectus non elit lacinia, in dictum odio tincidunt.",
+      "eventsDetails": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus iaculis, libero a volutpat fringilla, orci odio viverra nisi, id ultrices nunc dolor vitae ipsum. ",
+      "researchWorks": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod massa ac odio faucibus, ac rhoncus nulla dictum. Sed bibendum nibh ac nisl cursus, eget bibendum arcu consectetur.",
+      "sportsCategories": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas at efficitur ex.",
+      "description": "ABC University is a prestigious institution with a focus on innovation and research. It hosts cultural events and job."
+    },
+    {
+      "name": "Kazi Muhammad Mohsin College",
+      "image": "https://i.ibb.co/abc123/abc-university.jpg",
+      "admissionDates": "September 1 - October 1",
+      "events": ["Cultural Night", "Job Fair"],
+      "researchHistory": "Established in 1965, known for breakthrough research.",
+      "sports": ["Cricket", "Tennis", "Volleyball"],
+      "admissionProcess": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sed ultrices est. In ac eros eget lacus aliquam volutpat ac et purus. Etiam euismod lectus non elit lacinia, in dictum odio tincidunt.",
+      "eventsDetails": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus iaculis, libero a volutpat fringilla, orci odio viverra nisi, id ultrices nunc dolor vitae ipsum. ",
+      "researchWorks": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod massa ac odio faucibus, ac rhoncus nulla dictum. Sed bibendum nibh ac nisl cursus, eget bibendum arcu consectetur.",
+      "sportsCategories": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas at efficitur ex.",
+      "description": "ABC University is a prestigious institution with a focus on innovation and research. It hosts cultural events and job."
+    },
+    {
+      "name": "Goverenment City College",
+      "image": "https://i.ibb.co/abc123/abc-university.jpg",
+      "admissionDates": "September 1 - October 1",
+      "events": ["Cultural Night", "Job Fair"],
+      "researchHistory": "Established in 1965, known for breakthrough research.",
+      "sports": ["Cricket", "Tennis", "Volleyball"],
+      "admissionProcess": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sed ultrices est. In ac eros eget lacus aliquam volutpat ac et purus. Etiam euismod lectus non elit lacinia, in dictum odio tincidunt.",
+      "eventsDetails": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus iaculis, libero a volutpat fringilla, orci odio viverra nisi, id ultrices nunc dolor vitae ipsum. ",
+      "researchWorks": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod massa ac odio faucibus, ac rhoncus nulla dictum. Sed bibendum nibh ac nisl cursus, eget bibendum arcu consectetur.",
+      "sportsCategories": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas at efficitur ex.",
+      "description": "ABC University is a prestigious institution with a focus on innovation and research. It hosts cultural events and job."
+    },
+    {
+      "name": "Satkania College",
+      "image": "https://i.ibb.co/abc123/abc-university.jpg",
+      "admissionDates": "September 1 - October 1",
+      "events": ["Cultural Night", "Job Fair"],
+      "researchHistory": "Established in 1965, known for breakthrough research.",
+      "sports": ["Cricket", "Tennis", "Volleyball"],
+      "admissionProcess": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sed ultrices est. In ac eros eget lacus aliquam volutpat ac et purus. Etiam euismod lectus non elit lacinia, in dictum odio tincidunt.",
+      "eventsDetails": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus iaculis, libero a volutpat fringilla, orci odio viverra nisi, id ultrices nunc dolor vitae ipsum. ",
+      "researchWorks": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod massa ac odio faucibus, ac rhoncus nulla dictum. Sed bibendum nibh ac nisl cursus, eget bibendum arcu consectetur.",
+      "sportsCategories": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas at efficitur ex.",
+      "description": "ABC University is a prestigious institution with a focus on innovation and research. It hosts cultural events and job."
+    }
+]
