@@ -78,3 +78,17 @@
       "description": "ABC University is a prestigious institution with a focus on innovation and research. It hosts cultural events and job."
     }
 ]
+
+
+
+<div className="card mb-6 w-96 bg-slate-400 placeholder:text-neutral-content">
+     <div className="card-body items-center text-center">
+       <h2 className="card-title">{paper.title}</h2>
+       <p>{paper.author}</p>
+       <a href={paper.link} target="_blank" rel="noopener noreferrer">
+       Read more
+     </a>
+       <p>{paper.description}</p>
+       
+     </div>
+   </div>
