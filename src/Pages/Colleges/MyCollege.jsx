@@ -11,7 +11,7 @@ const MyCollege = () => {
   
     
  useEffect(() =>{
-    fetch(` https://admisson-hub-server-muhammadatiq757.vercel.app/myInfo/${user?.email}`)
+    fetch(`https://admisson-hub-server.vercel.app/myInfo/${user?.email}`)
     .then(res => res.json())
     .then(data => setInfo(data))
  }, [])

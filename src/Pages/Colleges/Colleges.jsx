@@ -6,13 +6,13 @@ const Colleges = () => {
   const [info, setInfo] = useState([]);
 
   useEffect(() => {
-    fetch(` https://admisson-hub-server-muhammadatiq757.vercel.app/collegeData`)
+    fetch(` https://admisson-hub-server.vercel.app/collegeData`)
       .then(res => res.json())
       .then(data => setInfo(data));
   }, []);
 
   const handleFind = ()=>{
-    fetch(`https://admisson-hub-server-muhammadatiq757.vercel.app/findName/${find}`)
+    fetch(` https://admisson-hub-server.vercel.app/findName/${find}`)
     .then(res => res.json())
     .then (data => setInfo(data))
 

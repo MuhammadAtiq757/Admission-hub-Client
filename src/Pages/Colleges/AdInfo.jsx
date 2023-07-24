@@ -34,7 +34,7 @@ const AdInfo = () => {
         }
         console.log(adding);
         
-fetch('https://admisson-hub-server-muhammadatiq757.vercel.app/addInfo',{
+fetch(' https://admisson-hub-server.vercel.app/addInfo',{
     method: 'POST',
     headers: {
         'content-type': 'application/json'
