@@ -50,13 +50,13 @@ export const router = createBrowserRouter([
                  {
                     path: '/collegeDetails/:id',
                     element: <PrivateRoute><CollegeDetails></CollegeDetails></PrivateRoute>,
-                    loader: ({ params }) => fetch(`http://localhost:5000/collegeData/${params.id}`)
+                    loader: ({ params }) => fetch(`https://admisson-hub-server-muhammadatiq757.vercel.app/collegeData/${params.id}`)
                  },
               
                  {
                     path: '/information/:id',
                     element: <AdInfo></AdInfo>,
-                    loader: ({ params }) => fetch(`http://localhost:5000/collegeData/${params.id}`)
+                    loader: ({ params }) => fetch(`https://admisson-hub-server-muhammadatiq757.vercel.app/collegeData/${params.id}`)
                  },
               
             ]

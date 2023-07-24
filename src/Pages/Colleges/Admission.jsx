@@ -7,7 +7,7 @@ const Admission = () => {
     const [info, setInfo] = useState([]);
 
     useEffect(() => {
-      fetch(`http://localhost:5000/collegeData`)
+      fetch(`https://admisson-hub-server-muhammadatiq757.vercel.app/collegeData`)
         .then(res => res.json())
         .then(data => setInfo(data));
     }, []);
